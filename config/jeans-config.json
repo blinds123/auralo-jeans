@@ -1,0 +1,173 @@
+{
+  "product": {
+    "name": "Architect Wide Leg Jeans",
+    "tagline": "The $1,075 Designer Secret That Broke The Internet",
+    "category": "Revolutionary Italian Denim",
+    "description": "Revolutionary 90° twist construction • Italian rigid denim • Only 200 pairs made monthly",
+    "materials": "100% Italian rigid cotton denim",
+    "features": [
+      "90-Degree Twist Technology",
+      "Italian Rigid Denim",
+      "True Fit Guarantee",
+      "34\" Inseam Standard",
+      "100-Wear Promise",
+      "Limited Production"
+    ],
+    "sizes": ["24", "25", "26", "27", "28", "29", "30", "31", "32"],
+    "originalPrice": 1075,
+    "regularPrice": 278,
+    "inStockPrice": 49,
+    "preorderPrice": 19,
+    "currency": "USD",
+    "currencySymbol": "$"
+  },
+  "inventory": {
+    "totalQuantity": 200,
+    "currentAvailable": 67,
+    "soldQuantity": 1247,
+    "dropDate": "January 2025",
+    "dropType": "Monthly Limited Production",
+    "scarcityMessage": "Only 200 pairs made monthly",
+    "size25SoldOut": true,
+    "size25SoldOutTime": 15000,
+    "twoTierPricing": true,
+    "inStockPercentage": 30,
+    "preOrderPercentage": 70,
+    "sizeInventory": {
+      "24": 2,
+      "25": 5,
+      "26": 8,
+      "27": 6,
+      "28": 10,
+      "29": 4,
+      "30": 7,
+      "31": 0,
+      "32": 0
+    }
+  },
+  "shipping": {
+    "readyToShipItems": true,
+    "readyToShipTime": "Ships Today",
+    "preorderAvailable": true,
+    "preorderShipDate": "Ships in 2-3 weeks",
+    "freeShippingThreshold": 0,
+    "shippingCost": 0,
+    "internationalAvailable": true,
+    "freeHemming": true
+  },
+  "payment": {
+    "primaryGateway": "simpleswap",
+    "gatewayUrl": "https://simpleswap.io/exchange",
+    "walletAddress": "0xE5173e7c3089bD89cd1341b637b8e1951745ED5C",
+    "fromCurrency": "usd-usd",
+    "toCurrency": "pol-matic",
+    "acceptedMethods": ["crypto", "card"],
+    "autoRedirect": false,
+    "popupCheckout": true
+  },
+  "branding": {
+    "primaryColor": "#000000",
+    "secondaryColor": "#1a1a1a",
+    "accentColor": "#d4af37",
+    "backgroundColor": "#ffffff",
+    "textColor": "#333333",
+    "fontHeadline": "Playfair Display",
+    "fontBody": "Inter"
+  },
+  "popups": {
+    "size25SelloutPopup": {
+      "enabled": true,
+      "triggerTime": 15000,
+      "message": "🔥 Size 25 Just Sold Out!",
+      "subMessage": "Lisa from LA just bought the last Size 25"
+    },
+    "checkoutPopup": {
+      "enabled": true,
+      "title": "Complete Your Order",
+      "step1Title": "Step 1: Copy Wallet Address",
+      "step1Text": "Click below to copy our wallet address",
+      "step2Title": "Step 2: Send Payment",
+      "step2Text": "Complete your exchange with Mercuryo",
+      "buttonText": "Complete Your Exchange with Mercuryo"
+    },
+    "exitIntent": {
+      "enabled": true,
+      "headline": "WAIT! Save an extra 10%",
+      "message": "Leave now and pay $49... or get an exclusive $44 price",
+      "buttonText": "Send Me The Secret Link"
+    }
+  },
+  "socialProof": {
+    "totalSold": 1247,
+    "recentPurchases": [
+      {"name": "Lisa", "location": "LA", "time": "1 minute ago", "size": "28"},
+      {"name": "Jennifer", "location": "Miami", "time": "3 minutes ago", "size": "30"},
+      {"name": "Sarah", "location": "NYC", "time": "5 minutes ago", "size": "26"}
+    ],
+    "verifiedReviews": 1247,
+    "instagramTags": 127,
+    "currentViewers": 47
+  },
+  "urgency": {
+    "stockWarning": {
+      "enabled": true,
+      "threshold": 3,
+      "message": "Only {quantity} left in this size!"
+    },
+    "timerCountdown": {
+      "enabled": true,
+      "resetTime": "midnight",
+      "message": "OFFER ENDS IN:"
+    },
+    "recentActivity": {
+      "enabled": true,
+      "updateInterval": 3000,
+      "activities": [
+        "Lisa from LA purchased size 28",
+        "Size 26 stock running low - only 3 left!",
+        "Jennifer from Miami is viewing size 30",
+        "2 people added to cart in last 5 minutes"
+      ]
+    }
+  },
+  "comparison": {
+    "competitor": "Maison Margiela",
+    "competitorPrice": 1075,
+    "features": {
+      "90° Twist Design": { "competitor": true, "auralo": true },
+      "Italian Denim": { "competitor": true, "auralo": true },
+      "Handcrafted Details": { "competitor": true, "auralo": true },
+      "100-Wear Guarantee": { "competitor": false, "auralo": true },
+      "Free Hemming": { "competitor": false, "auralo": true },
+      "Size Exchanges": { "competitor": "Limited", "auralo": "Unlimited" }
+    }
+  },
+  "reviews": [
+    {
+      "author": "Jessica M.",
+      "text": "I own the actual Margiela version and these are IDENTICAL in construction. Cannot believe the price!",
+      "rating": 5,
+      "verified": true
+    },
+    {
+      "author": "Amanda K.",
+      "text": "Finally, jeans that don't turn into saggy disappointments after 3 wears. The rigid denim is *chef's kiss*",
+      "rating": 5,
+      "verified": true
+    },
+    {
+      "author": "Marie L.",
+      "text": "That twist detail makes my 5'4\" self look 5'7\". My husband asked if I'm wearing heels!",
+      "rating": 5,
+      "verified": true
+    }
+  ],
+  "seo": {
+    "title": "Auralo Architect Wide Leg Jeans - The $1,075 Designer Secret",
+    "description": "Get the $1,075 Maison Margiela twisted jean look for just $49 today. Revolutionary 90-degree twist construction with Italian denim.",
+    "keywords": ["architect jeans", "wide leg jeans", "maison margiela alternative", "italian denim", "twisted seam jeans"],
+    "ogImage": "/images/product/architect-jeans-hero.jpg",
+    "ogType": "product",
+    "twitterCard": "summary_large_image"
+  }
+}
